@@ -1,3 +1,47 @@
+div {
+background-color: #e3f6f5;
+}
 body {
-background-color: blue; 
+  margin: 0;
+  text-align: center;
+  font-family: 'Arvo', serif;
+}
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  font-family: 'Josefin Sans', sans-serif
+}
+h3 {
+  font-family: 'Josefin Sans', sans-serif
+}
+.top-container{
+  background-color: #bae8e8;
+  position: relative;
+  padding-top: 10%;
+}
+
+.middle-container {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+
+}
+
+.bottom-container {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+
+}
+
+.nubeup {
+  position: absolute;
+  right: 25%;
+  top: 5%;
+}
+.nubedown {
+  position: absolute;
+  left: 25%;
 }
