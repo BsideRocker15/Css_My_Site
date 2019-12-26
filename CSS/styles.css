@@ -1,3 +1,7 @@
+a{
+  color: #11999E;
+}
+
 div {
 background-color: #e3f6f5;
 }
@@ -9,26 +13,23 @@ body {
 h1 {
   margin: 0;
   font-family: 'Sacramento', cursive;
-  color: #272343;
+  color: #66BFBF;
+  font-size: 5.625rem;
 }
 h2 {
-  font-family: 'Josefin Sans', sans-serif
+  color: #66BFBF;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2.5rem;
 }
 h3 {
+  color: #11999E;
   font-family: 'Josefin Sans', sans-serif
 }
 .top-container{
   background-color: #bae8e8;
+  line-height: 2;
   position: relative;
   padding-top: 10%;
-}
-
-.middle-container {
-
-}
-
-.bottom-container {
-
 }
 
 .nubeup {
@@ -39,4 +40,7 @@ h3 {
 .nubedown {
   position: absolute;
   left: 25%;
+}
+.losjaja {
+  font-weight: normal;
 }
